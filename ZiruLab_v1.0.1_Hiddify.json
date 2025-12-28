@@ -1,0 +1,25 @@
+{
+  "dns": {
+    "query_strategy": "create_queries",
+    "servers": [
+      {
+        "address": "[https://1.1.1.1/dns-query](https://1.1.1.1/dns-query)",
+        "tag": "remote"
+      }
+    ]
+  },
+  "outbounds": [
+    {
+      "type": "vless",
+      "tag": "Residential-ISP-68ms-ZiruLab",
+      "packet_encoding": "xudp", // 针对 HarmonyOS NEXT 优化吞吐量
+      "tls": {
+        "enabled": true,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome" // 模拟原生浏览器指纹解决 403
+        }
+      }
+    }
+  ]
+}
