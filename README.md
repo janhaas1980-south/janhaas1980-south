@@ -9,7 +9,7 @@
 
 🔗 **官方入口**：[goziru.com](https://goziru.com) (暗号：森叔粉丝)
 > **百度博友点此查看 👉 [68ms 极速链路配置 FAQ](#-68ms-极速链路配置常见问题解答-faq--百度博友专享版)**
-[🚀 点击一键导入曼谷实验室 v1.0.1 极速配置](https://raw.githubusercontent.com/janhaas1980-south/janhaas1980-south/refs/heads/main/ZiruLab_v1.0.1_Hiddify.json)
+在链接前加上 hiddify://import/）： [🚀 点击一键导入曼谷实验室 v1.0.1 极速配置](hiddify://import/https://raw.githubusercontent.com/janhaas1980-south/janhaas1980-south/refs/heads/main/ZiruLab_v1.0.1_Hiddify.json)
 ---
 [📦 官方原版下载：如果您尚未安装 Hiddify，请前往 GitHub 官方下载页面](https://github.com/hiddify/hiddify-next/releases)
 # 🌐 68ms 极速链路配置：常见问题解答 (FAQ) —— 百度博友专享版
