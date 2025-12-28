@@ -11,14 +11,14 @@
   "outbounds": [
     {
       "type": "vless",
-      "tag": "Residential-ISP-68ms-ZiruLab",
-      "server": "这里填你的服务器IP或域名",
+      "tag": "💎 正式会员极速节点 (请从官网获取)",
+      "server": "your-server-address.goziru.com",
       "port": 443,
-      "uuid": "这里填你的UUID",
+      "uuid": "YOUR-PRIVATE-UUID-FROM-GOZIRU-DOT-COM",
       "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
-        "server_name": "这里填你的伪装域名",
+        "server_name": "your-sni-domain.com",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
