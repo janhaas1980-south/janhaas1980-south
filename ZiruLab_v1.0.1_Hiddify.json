@@ -3,7 +3,7 @@
     "query_strategy": "create_queries",
     "servers": [
       {
-        "address": "[https://1.1.1.1/dns-query](https://1.1.1.1/dns-query)",
+        "address": "https://1.1.1.1/dns-query",
         "tag": "remote"
       }
     ]
@@ -12,12 +12,16 @@
     {
       "type": "vless",
       "tag": "Residential-ISP-68ms-ZiruLab",
-      "packet_encoding": "xudp", // 针对 HarmonyOS NEXT 优化吞吐量
+      "server": "这里填你的服务器IP或域名",
+      "port": 443,
+      "uuid": "这里填你的UUID",
+      "packet_encoding": "xudp",
       "tls": {
         "enabled": true,
+        "server_name": "这里填你的伪装域名",
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome" // 模拟原生浏览器指纹解决 403
+          "fingerprint": "chrome"
         }
       }
     }
