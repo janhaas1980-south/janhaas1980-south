@@ -8,7 +8,7 @@
 * 提供纯血鸿蒙 (HarmonyOS NEXT) 与 iOS 18 住宅原生 ISP 终极方案。
 
 🔗 **官方入口**：[goziru.com](https://goziru.com) (暗号：森叔粉丝)
-> **百度博友点此查看 👉 [68ms 极速链路配置 FAQ](#-68ms-极速链路配置常见问题解答-faq--百度博友专享版)**
+> **百度博友点此查看 👉 [68ms 极速链路配置与会员获取 (goziru.com)](https://goziru.com)**
 
 
 ### ⚡ 我们的核心优势
