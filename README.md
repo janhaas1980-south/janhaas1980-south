@@ -1,3 +1,33 @@
+
+<div align="center">
+  <h1>🌊 曼谷自如实验室 | Bangkok Ziru Lab</h1>
+  <p><b>专注于跨境生产力链路底层优化与 66ms 极速协议研究</b></p>
+  
+  <br />
+
+  <table>
+    <tr>
+      <td align="center" width="400">
+        <img src="https://raw.githubusercontent.com/janhaas1980-south/janhaas1980-south/main/66ms%20shadowrocket%E6%B5%8B%E8%AF%95.jpg" width="350" />
+        <br />
+        <sub>📊 实测数据：香港 VLESS 节点延迟压制在 66ms</sub>
+      </td>
+      <td align="left" valign="top">
+        <h3>🛡️ 2026 核心技术指标</h3>
+        <ul>
+          <li><b>核心协议</b>：基于 xudp 底层重构</li>
+          <li><b>响应速度</b>：全球均态 68ms 黄金平衡</li>
+          <li><b>身份洁净</b>：100% 原生住宅 ISP</li>
+          <li><b>系统支持</b>：纯血鸿蒙 HarmonyOS NEXT</li>
+        </ul>
+        <br />
+        <a href="https://Ziru.foyooapps.com"><b>➡️ 获取实验室私人令牌</b></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 # 🌊 曼谷自如实验室 (Bangkok Ziru Laboratory)
 
 本项目由**森叔**（目前定居泰国）主理，专注于跨境生产力链路的底层优化与高性能协议研究。我们致力于为开发者和高需求用户提供复现全球 **68ms** 黄金响应的链路方案。
