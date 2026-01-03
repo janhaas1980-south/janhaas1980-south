@@ -21,7 +21,7 @@
           <li><b>系统支持</b>：纯血鸿蒙 HarmonyOS NEXT</li>
         </ul>
         <br />
-        <a href="https://Ziru.foyooapps.com"><b>➡️ 获取实验室私人令牌</b></a>
+        <a href="https://web.ziru.us"><b>➡️ 获取实验室私人令牌</b></a>
       </td>
     </tr>
   </table>
