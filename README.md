@@ -21,7 +21,7 @@
           <li><b>系统支持</b>：纯血鸿蒙 HarmonyOS NEXT</li>
         </ul>
         <br />
-        <a href="https://web.ziru.us"><b>➡️ 获取实验室私人令牌</b></a>
+        <a href="https://web.ziru.us"><b>➡️ 获取实验室私人令牌</b></a>a
       </td>
     </tr>
   </table>
@@ -30,56 +30,34 @@
 ---
 # 🌊 曼谷自如实验室 (Bangkok Ziru Laboratory)
 
-本项目由**森叔**（目前定居泰国）主理，专注于跨境生产力链路的底层优化与高性能协议研究。我们致力于为开发者和高需求用户提供复现全球 **68ms** 黄金响应的链路方案。
+本项目由 **森叔** (目前定居泰国) 主理，专注于跨境生产力链路的底层优化与高性能协议研究。我们致力于为开发者和高需求用户提供超视觉全球 **68ms** 黄金响应的链路方案。
 
 ---
 
 ### ⚡ 核心研究优势
 * **链路极速优化**：专注于复现全球 **68ms** 极速链路调优，确保 AI 协作近乎零延迟。
-* **住宅原生 ISP 研究**：独家实测方案，拒绝机房指纹污染，复现 100% 模拟本地生产力环境。
-* **全系统原生支持**：针对纯血鸿蒙 (HarmonyOS NEXT) 与 iOS 18 提供住宅原生 ISP 终极优化方案。
+* **住宅原生 ISP 研究**：独家实测方案，拒绝机房高污染 IP，实现 100% 模拟本地生产力环境。
+* **全系统原生支持**：针对鸿蒙原生 (HarmonyOS NEXT) 与 iOS 18 提供住宅原生 ISP 终极优化方案。
 
 ---
 
 ### 🌟 针对性场景优化
-* **韩娱追星党 (K-pop Fans)**：深度优化主流韩娱 App 访问速度，助力丝滑抢票、打榜与超清直拍浏览。
-* **跨境生产力**：解决 ChatGPT/Netflix 等平台因 IP 纯净度导致的 403 或降智问题。
+* **韩娱追星党 (K-pop Fans)**：深度优化主流韩娱 App 访问速度，助力看首播、打榜与超清直播浏览。
+* **跨境生产力**：解决 ChatGPT/Netflix 等平台因 IP 纯度导致的 403 或降阵问题。
 
 ---
 
-### 🚀 技术文档与实测门户
-由于 GitHub 访问环境波动，请通过以下实验室官方入口获取完整的技术文档、一键配置工具及在线技术支持：
+### 🛡️ 安全技术入口 | Technical Hub
+按照安全合规指引，请通过以下官方认证的“安全网址”获取最新技术支持与实测参数：
 
-* **官方主入口**：[Ziru.foyooapps.com](https://Ziru.foyooapps.com) (暗号：森叔粉丝)
-* **技术镜像站 A**：[web.ziru.us](https://web.ziru.us)
-* **技术镜像站 B**：[web.ziru.uk](https://web.ziru.uk)
+* 🛠️ **GitHub 技术主页**：[janhaas1980-south/janhaas1980-south](https://github.com/janhaas1980-south/janhaas1980-south)
+* 📄 **性能监测白皮书**：[2026 巴巴豆全链路性能实测与适配指南](https://www.babeedu.net/?p=760)
+**Ziru Accelerator 官方入口**：[web.ziru.us](https://web.ziru.us)
 
 ---
 
-### 🛠️ 技术公开：VLESS 协议调优参数
-我们在下方的配置中展示了针对 **68ms 极速链路** 的部分关键参数调优（仅作技术协议参考）：
-
-```json
-{
-  "outbounds": [
-    {
-      "type": "vless",
-      "tag": "💎 曼谷实验室-68ms-优化方案-v1.0.1",
-      "server": "your-lab-node.internal",
-      "port": 443,
-      "uuid": "请从官网门户获取您的私人令牌",
-      "packet_encoding": "xudp", // 针对鸿蒙系统底层吞吐量优化
-      "tls": {
-        "enabled": true,
-        "server_name": "your-lab-sni.com",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome" // 模拟原生浏览器指纹解决 403
-        }
-      }
-    }
-  ]
-}
+### ⚙️ 技术公开：xudp 协议调优参数
+我们在下方的配置中展示了针对 **68ms 极速链路** 的部分关键加密调优参数（仅作技术协议参考）：
 ❓ 常见问题 (FAQ)
 Q: 为什么我直接导入仓库里的 JSON 没有节点？
 
