@@ -52,7 +52,7 @@
 
 * 🛠️ **GitHub 技术主页**：[janhaas1980-south/janhaas1980-south](https://github.com/janhaas1980-south/janhaas1980-south)
 * 📄 **性能监测白皮书**：[2026 巴巴豆全链路性能实测与适配指南](https://www.babeedu.net/?p=760)
-**Ziru Accelerator 官方入口**：[web.ziru.us](https://web.ziru.us)
+**Ziru Accelerator 官方入口**：[web.ziru.us](https://getziru.com/login)
 
 ---
 
